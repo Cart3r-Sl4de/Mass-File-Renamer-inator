@@ -43,6 +43,4 @@ def main():
         if confirmation == "y":
             fileinator(directory_path, extension)
 
-    #print(f'{"supercalifragilisticexpialidocious"[:-4]}')
-
 main()
